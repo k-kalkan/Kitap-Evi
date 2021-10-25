@@ -1,0 +1,53 @@
+.box {
+    width: 300px;
+    height: 300px;
+    font-size: 16px;
+}
+
+
+.font{
+ font-size: 16px;
+}
+
+ul{
+    text-align:center;
+    }
+     
+    ul li{
+     display:inline-block;
+     *display:inline;
+     *zoom:1;
+    }
+    
+
+    .btn {
+        padding: 10px 20px;
+        border-radius: 25px;
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+        background-color: red;
+        }
+
+
+
+        #link{
+            color: rgb(175, 175, 175);
+            background-color: red;
+            text-decoration: none;
+    }
+
+        #visited{
+            color: rgb(255, 255, 255);
+            background-color: red;
+            text-decoration: none;
+    }
+        #hover{
+            color: rgb(255, 255, 255);
+            background-color: red;
+            text-decoration: none;
+    }
+        #active{
+            color: rgb(175, 175, 175);
+            background-color: rgb(255, 0, 0);
+            text-decoration: none;
+    }
